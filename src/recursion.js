@@ -36,7 +36,8 @@ var factorial = function(n) {
 //     } else {
 //         return array.pop()+sum(array)
 //     }
-// };
+// }
+
 var sum = function(array) {
 };
 // 3. Sum all numbers in an array containing nested arrays.
